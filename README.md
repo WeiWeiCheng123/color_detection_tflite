@@ -1,4 +1,5 @@
 # color_detection_tflite
+# spectrum_color_detection.ipynb 是上禮拜做好的顏色辨識程式
 # tf_lite_test.ipynb 是測試tf lite的程式
 # 在附檔中test_tflite.xls 是tf.lite的測試資料
 # 顏色順序是綠綠紅紅藍藍白白
